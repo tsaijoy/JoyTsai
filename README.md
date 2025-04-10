@@ -3,12 +3,10 @@ https://colab.research.google.com/drive/1yiUuVYDmqvCW50WA-fOQnbg5GeU08G_I?usp=sh
 
 # 113-2 師大科技系程式語言
 ---
-授課教師：蔡芸琤老師
-
-姓名：蔡詠筑
-
-系級：科技系2年級 乙班
+#作業
+HW1程式碼:()
 --- 
+#隨堂練習
 
 [W2](https://colab.research.google.com/drive/1eqRKDhc5UsssR0fnT3E-NDUs5QCqr8pT#scrollTo=uYKQAgcB0C9J)
 
