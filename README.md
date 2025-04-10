@@ -6,6 +6,8 @@ https://colab.research.google.com/drive/1yiUuVYDmqvCW50WA-fOQnbg5GeU08G_I?usp=sh
 # 作業
 
 HW1程式碼:()
+HW2程式碼:()
+
 --- 
 #隨堂練習
 
