@@ -10,7 +10,8 @@ HW1程式碼:()
 HW2程式碼:()
 
 --- 
-#隨堂練習
+
+# 隨堂練習
 
 [W2](https://colab.research.google.com/drive/1eqRKDhc5UsssR0fnT3E-NDUs5QCqr8pT#scrollTo=uYKQAgcB0C9J)
 
