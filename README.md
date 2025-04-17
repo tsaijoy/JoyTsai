@@ -1,6 +1,6 @@
 # 113-2 程式語言
 
-【作業一】讓兩個AI聊排球 [程式碼](https://colab.research.google.com/drive/1kDIjZpsfya86Z9py-xoKsqByee-fXjYQ#scrollTo=k2KRPvkB80Dj)
+#【作業一】讓兩個AI聊排球 [程式碼](https://colab.research.google.com/drive/1kDIjZpsfya86Z9py-xoKsqByee-fXjYQ#scrollTo=k2KRPvkB80Dj)
 
 讓高橋藍跟石川祐希聊天，夾雜一些台灣人會用的排球常用語，聽起來很地道。
 
