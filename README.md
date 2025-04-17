@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/1yiUuVYDmqvCW50WA-fOQnbg5GeU08G_I?usp=sh
 
 # HW1
 
-程式碼:()
+程式碼:(https://colab.research.google.com/drive/1kDIjZpsfya86Z9py-xoKsqByee-fXjYQ#scrollTo=k2KRPvkB80Dj)
 
 # HW2
 
