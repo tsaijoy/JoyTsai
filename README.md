@@ -28,4 +28,6 @@
 
 [W6](https://colab.research.google.com/drive/1tZGhMHqvuNa8pJntgcXSoTEP8MY0f-cM#scrollTo=vurs7ub3SVDN) 日本排球選手的攻擊攔網發球等得分分析
 
+[W8](https://colab.research.google.com/drive/1Pkv9o2sqBrBVOAls0d2XPGMuhRQk-ySP#scrollTo=ChK3Im9afsmm) 告五人專輯歌曲文字探勘
+
 
